@@ -28,7 +28,7 @@
   "author": "Kelly J Andrews <kelly@kellyjandrews.com>",
   "license": "MIT",
   "engines": {
-    "node": "7.7.1"
+    "node": "6.10.3"
   },
   "bugs": {
     "url": "https://github.com/kellyjandrews/nodejs-express-todoapp/issues"
